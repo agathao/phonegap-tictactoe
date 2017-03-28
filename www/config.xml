@@ -182,7 +182,7 @@
     <!-- https://github.com/EddyVerbruggen/Custom-URL-scheme -->
     <preference name="AndroidLaunchMode" value="singleInstance" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" spec="4.2.0" >
-      <param name="URL_SCHEME" value="com.gamingplatform.dominoes" />
+      <param name="URL_SCHEME" value="dominoes" />
     </gap:plugin>
 
     <!-- We have to use this if we want native ads (can't use mediation for that):
